@@ -1,2 +1,2 @@
-# socket_uber_simulator
+# Socket Uber simulator
 Uber simulator using sockets
